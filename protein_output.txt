@@ -1,0 +1,9 @@
+DNA: ATGCATGCATGCATTGC
+Codons: [Seq('ATG'), Seq('CAT'), Seq('GCA'), Seq('TGC'), Seq('ATT'), Seq('GC')]
+Protein: MHACI
+Amino acid properties:
+M: hydrophobic
+H: basic
+A: hydrophobic
+C: polar
+I: hydrophobic
